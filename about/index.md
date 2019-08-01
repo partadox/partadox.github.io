@@ -6,21 +6,24 @@ date: 2019-08-01
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://partadox.github.io/about/"><b>Call me Arta</b></a></center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+### This is me
 
-## Preview
+I was born in Nganjuk, 07 Novmber 1996. I am bachelor fresh graduate from Computer Engineering Department, Institut Teknologi Sepuluh Nopember (ITS). During in my studies, i am active in organization that is Tiyang Alit theater. In this organization I was also given the responsibility as a Leader in period 2017-2018. 
+I am currently working on developing websites. My final project is about implementation the CNN model to website classifier. In the future, I plan to learn about data Scientists.  My other hobbies is watching movies and sometimes i made subtitle too. Right now i am live in Surabaya. 
+
+
+## Some knowledge that I have
+* Website Developing (HTML, CSS, Database, PHP)
+* PHP Framework (Codeigniter)
+* Javascript
+* Python
+* Computer Vision (OpenCV)
+* Machine Learning Environment (Anaconda, Tensorflow, Jupyter Notebook)
+
+
+## Education and Experience
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
@@ -28,10 +31,5 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Themes Pages From : [Credit taylantatli](http://taylantatli.github.io/Moon).  
