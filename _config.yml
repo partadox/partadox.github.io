@@ -1,7 +1,7 @@
 # Site
 title:              Arta Kusuma Hernanda
 bio:                'Simple person who love technology and movie'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "This my profile Page - Arta Kusuma H."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -44,13 +44,13 @@ github-url:         partadox
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          arta-kusuma
 #xing:              username
-#instagram:          username
+instagram:          arta_kusuma
 #lastfm:            username
 #tumblr:            username
 medium:            '@artakusuma'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
