@@ -21,13 +21,14 @@ I am currently working on developing websites. My final project is about impleme
 * Python
 * Computer Vision (OpenCV)
 * Machine Learning Environment (Anaconda, Tensorflow, Jupyter Notebook)
+* Android Studio
 
 
 ## Education and Experience
 
 {% capture images %}
     https://user-images.githubusercontent.com/45548092/62284084-266b7900-b47d-11e9-8147-e800af562ca8.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://user-images.githubusercontent.com/45548092/62408031-23db6180-b5ec-11e9-9779-8029a27acb24.jpg
 {% endcapture %}
 {% include gallery images=images caption="Image contains information about my education history and my experience." cols=2 %}
 
